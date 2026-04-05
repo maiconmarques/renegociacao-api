@@ -25,3 +25,6 @@ jobs:
 
       - name: Testes
         run: dotnet test --no-build
+
+      - name: Build Docker
+        run: docker build -t renegociacao-api .
