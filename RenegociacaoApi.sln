@@ -1,0 +1,30 @@
+﻿Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RenegociacaoApi", "RenegociacaoApi\RenegociacaoApi.csproj", "{4525DC55-DE95-BE19-F174-C292DCB2B484}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Renegociacao.Tests", "Renegociacao.Tests\Renegociacao.Tests.csproj", "{D8DBAE5F-3D17-4BBF-9FA5-F8A3F05234E5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4525DC55-DE95-BE19-F174-C292DCB2B484}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4525DC55-DE95-BE19-F174-C292DCB2B484}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4525DC55-DE95-BE19-F174-C292DCB2B484}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4525DC55-DE95-BE19-F174-C292DCB2B484}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D8DBAE5F-3D17-4BBF-9FA5-F8A3F05234E5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D8DBAE5F-3D17-4BBF-9FA5-F8A3F05234E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D8DBAE5F-3D17-4BBF-9FA5-F8A3F05234E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D8DBAE5F-3D17-4BBF-9FA5-F8A3F05234E5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8AED8FDA-5193-4BDF-A82C-2C83D2907FA3}
+	EndGlobalSection
+EndGlobal
